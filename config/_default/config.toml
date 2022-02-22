@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.statichunt.com/geeky-hugo/"
-title = "Geeky | Hugo Personal Blog Template"
+baseURL = "https://cryptopromo.co.uk"
+title = "CryptoPromo | Crypto referral codes for quick cash"
 theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
