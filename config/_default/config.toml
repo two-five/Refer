@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "two-five.github.io"
+# baseURL = "two-five.github.io"
 title = "CryptoPromo | Crypto referral codes for quick cash"
 theme = "geeky-hugo"
 languageName = "En"
