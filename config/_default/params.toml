@@ -49,7 +49,7 @@ enable = true
 title_large = "Welcome **!**"
 title_small = "to CryptoPromo"
 #image = "images/banner.png"
-#background_image = "/images/banner-bg-shape.svg"
+background_image = "/images/banner-bg-shape.svg"
 content = "Are you wanting to get started in crypto? Or maybe you just want a good deal!"
 button_label = "Learn more"
 button_link = "about/"
@@ -81,27 +81,27 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[social]]
+# title = "twitter"
+# icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "linkedin"
-icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+# [[social]]
+# title = "instagram"
+# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
+#
+# [[social]]
+# title = "github"
+# icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
+#
+# [[social]]
+# title = "linkedin"
+# icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#"
