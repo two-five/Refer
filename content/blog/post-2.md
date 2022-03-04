@@ -1,24 +1,20 @@
 ---
-title: "What you need to know about Programming"
-description: "meta description"
-image: "images/post/post-2.png"
+title: "Bybit Promo Code: $10 in 5m "
+description: "Bybit Crypto Promo code"
 date: 2021-01-24T18:19:25+06:00
-categories: ["artificial intelligence"]
-type: "featured" # available types: [featured/regular]
+image: "images/post/Bybit1.png"
+categories: ["Crypto"]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Bybit is a cryptocurrency exchange established in March 2018 to offer a professional platform where crypto traders can find an ultra-fast matching engine, excellent customer service and multilingual community support.
 
+Get $10 + a discount on your trading fees when you sign up using our code below!
 
-#### Covid-19 Situation
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+#### Code: GPMMM3
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+#### Link: https://www.bybit.com/en-US/invite?ref=GPMMM3
 
-#### Work From Home
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Time: 5 minutes <br>
+Requirements: none!

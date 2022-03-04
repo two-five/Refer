@@ -1,24 +1,20 @@
 ---
-title: "Robotic world is growing very fast"
-description: "meta description"
-image: "images/post/post-1.png"
+title: "Bilaxy Promo Code: $10 in 10m "
+description: "Bilaxy Crypto Promo code"
 date: 2021-01-24T18:19:25+06:00
-categories: ["robotics"]
+image: "images/post/Bilaxy1.png"
+categories: ["Crypto"]
 type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Operator of a crypto asset trading platform designed to provide real-time and safe trading in cryptocurrencies. The company's platform trades in multiple blockchain-based digital assets across the globe, enabling traders to have diversification benefits across the broader asset classes.
 
+Get 50% your fees + other prizes when you use the code below!
 
-#### Covid-19 Situation
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+#### Code: 1670886
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+#### Link: https://bilaxy.com/user/register?intro=1670886
 
-#### Work From Home
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Time: 5 minutes <br>
+Requirements: id required

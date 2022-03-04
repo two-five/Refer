@@ -1,24 +1,20 @@
 ---
-title: "What is a Virtual Assistant"
-description: "meta description"
-image: "images/post/post-3.png"
+title: "Phemex Promo Code: $10 in 5m "
+description: "Phemex Crypto Promo code"
 date: 2021-01-24T18:19:25+06:00
-categories: ["assistant"]
-type: "featured" # available types: [featured/regular]
+image: "images/post/Phemex1.png"
+categories: ["Crypto"]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Phemex operates as a crypto derivatives trading platform. Phemex is a professional and trustworthy global cryptocurrency derivatives exchange. They offer Bitcoin, Ethereum, Ripple, and Chainlink perpetual contracts, with up to 100x leverage.
 
+Up to $100 in rewards when you sign up with the code below!
 
-#### Covid-19 Situation
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+#### Code: ED3K34
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+#### Link: https://phemex.com/register?referralCode=ED3K34
 
-#### Work From Home
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Time: 10 minutes <br>
+Requirements: 2fa
