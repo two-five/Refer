@@ -17,4 +17,4 @@ Get $10 + a discount on your trading fees when you sign up using our code below!
 #### Link: https://www.bybit.com/en-US/invite?ref=GPMMM3
 
 Time: 5 minutes <br>
-Requirements: none!
+Requirements: None!
