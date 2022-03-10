@@ -21,16 +21,16 @@ email = "info@email.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
-search = true
+search = false
 
 # featured post title
 featured_post_title = "Featured Post"
 recent_post_title = "Recent Post"
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+# about_widget_content = "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
 # footer content
-footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
+# footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
@@ -68,7 +68,8 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
+# sidebar = ["about", "categories", "recent-post", "newsletter"]
+sidebar = ["categories"]
 # available widget : about,categories,newsletter,recent-post
 
 
