@@ -4,7 +4,7 @@ description: "Coinsbit Crypto Promo code"
 date: 2022-03-10T18:19:25+06:00
 image: "images/post/coinsbit1.png"
 categories: ["Crypto"]
-type: "regular" # available types: [featured/regular]
+type: "featured" # available types: [featured/regular]
 draft: false
 ---
 
