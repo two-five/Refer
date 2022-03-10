@@ -12,9 +12,9 @@ Phemex operates as a crypto derivatives trading platform. Phemex is a profession
 
 Up to $100 in rewards when you sign up with the code below!
 
-#### Code: ED3K34
+### Code: ED3K34
 
-#### Link: https://phemex.com/register?referralCode=ED3K34
+#### Or, follow our link [here](https://phemex.com/register?referralCode=ED3K34)
 
 Time: 10 minutes <br>
 Requirements: 2fa

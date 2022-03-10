@@ -12,9 +12,9 @@ In its most basic form, 3Commas is an online platform that allows everyday trade
 
 10% of a subscription + cash prizes with the code below!
 
-#### Code: tc1111542
+### Code: tc1111542
 
-#### Link: https://3commas.io/?c=tc1111542
+#### Or, follow our link [here](https://3commas.io/?c=tc1111542)
 
 Time: 5 minutes <br>
 Requirements: None!

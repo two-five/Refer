@@ -12,9 +12,9 @@ Operator of a crypto asset trading platform designed to provide real-time and sa
 
 Get 30% cashback on your initial purchases + other prizes
 
-#### Code: kikx4223
+### Code: kikx4223
 
-#### Link: https://www.huobi.com/en-us/topic/double-reward/?invite_code=kikx4223
+#### Or, follow our link [here](https://www.huobi.com/en-us/topic/double-reward/?invite_code=kikx4223)
 
 Time: 5 minutes <br>
 Requirements: None!

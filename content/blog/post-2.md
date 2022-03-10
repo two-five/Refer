@@ -12,9 +12,9 @@ Bybit is a cryptocurrency exchange established in March 2018 to offer a professi
 
 Get $10 + a discount on your trading fees when you sign up using our code below!
 
-#### Code: GPMMM3
+### Code: GPMMM3
 
-#### Link: https://www.bybit.com/en-US/invite?ref=GPMMM3
+#### Or, follow our link [here](https://www.bybit.com/en-US/invite?ref=GPMMM3)
 
 Time: 5 minutes <br>
 Requirements: None!

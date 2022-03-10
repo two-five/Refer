@@ -12,9 +12,9 @@ Poloniex is a cryptocurrency exchange that allows for the buying or selling of d
 
 10% off your initial trades + other USDT prizes
 
-#### Code: R7A9EB6H
+### Code: R7A9EB6H
 
-#### Link: https://poloniex.com/signup?c=R7A9EB6H
+#### Or, follow our link [here](https://poloniex.com/signup?c=R7A9EB6H)
 
 Time: 5 minutes <br>
 Requirements: None!

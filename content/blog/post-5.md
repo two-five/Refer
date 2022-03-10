@@ -14,9 +14,9 @@ It was launched in 2018 and is headquartered in Tallinn, Estonia.
 
 Earn up to £100 using the code below!
 
-#### Code: 551106b3-9737-4eb2-aef7-8329ebb53731
+### Code: 551106b3-9737-4eb2-aef7-8329ebb53731
 
-#### Link: https://coinsbit.io/referral/551106b3-9737-4eb2-aef7-8329ebb53731
+#### Or, follow our link [here](https://coinsbit.io/referral/551106b3-9737-4eb2-aef7-8329ebb53731)
 
 Time: 5 minutes <br>
 Requirements: None!

@@ -12,9 +12,9 @@ Bittrex provides the widest selection of cryptocurrencies in the United States a
 
 Get $10 when you sign up using our code below!
 
-#### Code: DN2-TBI-N00
+### Code: DN2-TBI-N00
 
-#### Link: https://bittrex.com/discover/join?referralCode=DN2-TBI-N00
+#### Or, follow our link [here](https://bittrex.com/discover/join?referralCode=DN2-TBI-N00)
 
 Time: 10 minutes <br>
 Requirements: id required

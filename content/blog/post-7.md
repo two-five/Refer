@@ -12,9 +12,9 @@ Operator of a crypto asset trading platform designed to provide real-time and sa
 
 Get 50% your fees + other prizes when you use the code below!
 
-#### Code: 1670886
+### Code: 1670886
 
-#### Link: https://bilaxy.com/user/register?intro=1670886
+#### Or, follow our link [here](https://bilaxy.com/user/register?intro=1670886)
 
 Time: 5 minutes <br>
 Requirements: id required
