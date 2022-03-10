@@ -32,7 +32,7 @@ mainSections = ["blog"]
 # footer content
 # footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+# copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script= ""
