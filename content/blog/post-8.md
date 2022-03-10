@@ -1,7 +1,7 @@
 ---
 title: "Houbi Futures Promo Code: 30% cashback++ in 5m"
 description: "Houbi DM Exchange Futures Crypto Promo code"
-date: 2021-01-24T18:19:25+06:00
+date: 2022-03-10T18:19:25+06:00
 image: "images/post/Houbi1.jpeg"
 categories: ["Crypto"]
 type: "regular" # available types: [featured/regular]
@@ -17,4 +17,4 @@ Get 30% cashback on your initial purchases + other prizes
 #### Link: https://www.huobi.com/en-us/topic/double-reward/?invite_code=kikx4223
 
 Time: 5 minutes <br>
-Requirements: none!
+Requirements: None!
