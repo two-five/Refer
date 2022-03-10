@@ -1,24 +1,20 @@
 ---
-title: "Github Repository Controls"
-description: "meta description"
-image: "images/post/post-4.png"
-date: 2021-01-24T18:19:25+06:00
-categories: ["github", "youtube"]
-type: "featured" # available types: [featured/regular]
+title: "3Commas Promo Code: 10%++ in 5m "
+description: "3Commas Crypto Promo code"
+date: 2022-03-10T18:19:25+06:00
+image: "images/post/3commas1.jpeg"
+categories: ["Crypto"]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+In its most basic form, 3Commas is an online platform that allows everyday traders to utilize the benefits of automated trading bots. Irrespective of your experience in this particular field, 3Commas aims to cater for investors of all sizes.
 
+10% of a subscription + cash prizes with the code below!
 
-#### Covid-19 Situation
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+### Code: tc1111542
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+#### Or, follow our link [here](https://3commas.io/?c=tc1111542)
 
-#### Work From Home
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Time: 5 minutes <br>
+Requirements: None!

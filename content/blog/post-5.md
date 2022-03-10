@@ -1,24 +1,22 @@
 ---
-title: "My work from home workstation"
-description: "meta description"
-image: "images/post/post-5.png"
-date: 2021-01-24T18:19:25+06:00
-categories: ["workstation"]
-type: "featured" # available types: [featured/regular]
+title: "Coinsbit promo code- up to £100 in 5m"
+description: "Coinsbit Crypto Promo code"
+date: 2022-03-10T18:19:25+06:00
+image: "images/post/coinsbit1.png"
+categories: ["Crypto"]
+type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Coinsbit is a legit, secure, and reliable cryptocurrency exchange based in Estonia. It was named the best 2018 crypto exchange at Asian Blockchain Life 2019. It plans on further distinguishing itself from the competition through a series of novel functions. It will ensure privacy for all users and will not require borrowers to show their credithistory. An additional planned feature is an invest box service, which will reward users who deposit cryptocurrency by paying them interest on various coins.
+<br>
+It was launched in 2018 and is headquartered in Tallinn, Estonia.
 
+Earn up to £100 using the code below!
 
-#### Covid-19 Situation
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+### Code: 551106b3-9737-4eb2-aef7-8329ebb53731
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+#### Or, follow our link [here](https://coinsbit.io/referral/551106b3-9737-4eb2-aef7-8329ebb53731)
 
-#### Work From Home
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Time: 5 minutes <br>
+Requirements: None!
