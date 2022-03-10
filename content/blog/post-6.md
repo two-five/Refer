@@ -17,4 +17,4 @@ Poloniex is a cryptocurrency exchange that allows for the buying or selling of d
 #### Link: https://poloniex.com/signup?c=R7A9EB6H
 
 Time: 5 minutes <br>
-Requirements: none!
+Requirements: None!
