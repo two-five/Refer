@@ -87,10 +87,10 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 # icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 # link = "#"
 
-# [[social]]
-# title = "twitter"
-# icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/sidhustle00"
 
 # [[social]]
 # title = "instagram"
