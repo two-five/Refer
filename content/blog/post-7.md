@@ -1,7 +1,7 @@
 ---
 title: "Bilaxy Promo Code: $10 in 10m "
 description: "Bilaxy Crypto Promo code"
-date: 2021-01-24T18:19:25+06:00
+date: 2022-03-10T18:19:25+06:00
 image: "images/post/Bilaxy1.png"
 categories: ["Crypto"]
 type: "regular" # available types: [featured/regular]
