@@ -1,7 +1,7 @@
 ---
 title: "Coinsbit promo code- up to £100 in 5m"
 description: "Coinsbit Crypto Promo code"
-date: 2021-01-24T18:19:25+06:00
+date: 2022-03-10T18:19:25+06:00
 image: "images/post/coinsbit1.png"
 categories: ["Crypto"]
 type: "regular" # available types: [featured/regular]
@@ -19,4 +19,4 @@ Earn up to £100 using the code below!
 #### Link: https://coinsbit.io/referral/551106b3-9737-4eb2-aef7-8329ebb53731
 
 Time: 5 minutes <br>
-Requirements: none!
+Requirements: None!
