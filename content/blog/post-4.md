@@ -17,4 +17,4 @@ In its most basic form, 3Commas is an online platform that allows everyday trade
 #### Link: https://3commas.io/?c=tc1111542
 
 Time: 5 minutes <br>
-Requirements: none!
+Requirements: None!
